@@ -4,5 +4,6 @@
   "owner": "limuchen02",
   "records": {
     "CNAME": "cname.vercel-dns.com"
-  }
+  },
+  "proxy": true
 }
